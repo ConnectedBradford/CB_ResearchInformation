@@ -4,7 +4,7 @@
 >
   
 
-##  Research Project  as at 05/03/2024
+##  Research Projects as at 05/03/2024
 
 The following is a list of projects that are either in progress or have been worked on using Connected Bradford data
 if you want to know more please email cbradford@bthft.nhs.uk quoting the Project ID
