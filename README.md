@@ -9,6 +9,8 @@
 The following is a list of projects that are either in progress or have been worked on using Connected Bradford data
 if you want to know more please email cbradford@bthft.nhs.uk quoting the Project ID
 
+[Back to home page](https://github.com/ConnectedBradford)
+
 |Project ID|Subject|Project Lead|
 |---------|-------------------------------------------------------------------------|------------------------------|
 |2375|CY P03 24 08 - Social care and its association with healthcare use after an intensive care admission|Ana Castro |
