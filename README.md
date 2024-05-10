@@ -63,8 +63,8 @@ if you want to know more please email cbradford@bthft.nhs.uk quoting the Project
 |1646|cY P06-21-02 The effect of increasing age, frailty, and cognitive impairment on the referral of suspected cancer: a Connected Cities database study|Daniel Jones|
 |1645|cY P06-21-01 Understanding and addressing health inequalities related to ethnicity and deprivation at the end of life|Jamilla Hussain|
 |1561|cY P08-20-01 Artificial Intelligence for Multiple Long-Term Conditions (AIM)|Ilaria Bellantuono|
-|1551|cY P12-20-01 Development and national implementation of eFI2|Andy Clegg |
+|[1551](https://github.com/ConnectedBradford/CB_1551_eFI2/blob/main/README.md)|cY P12-20-01 Development and national implementation of eFI2 - eFalls Predictor|Andy Clegg |
 |1322|cY P03-20-02 - Development and validation of the Anticholinergic Medication Index (ACMI)|Prof Andy Clegg|
 |1242|cY P11-19-02   approach to improve air quality in Bradford - Rosie McEachan|Rosie McEachan|
 |1063|cY P01-19-01_1063  Diabetes, glycaemic control and the effect of frequent early intervention - Donald Whitelaw|Donald Whitelaw|
-|
+
