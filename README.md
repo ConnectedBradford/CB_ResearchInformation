@@ -13,6 +13,16 @@ if you want to know more please email cbradford@bthft.nhs.uk quoting the Project
 
 |Project ID|Subject|Project Lead|
 |---------|-------------------------------------------------------------------------|------------------------------|
+|2583|CY P09 24 01 - Physical and mental health multimorbidity across the lifespan (LIfespaN multimorbidity research Collaborative: LINC).|Megan Wood|
+|2572|CY P06 24 07 - BCG Vaccinations|Sunil Bhopal|
+|2514|CY P06 24 06 - Spatial Distribution |Tiffany Yang|
+|2507|CY P06 24 05 - Better Start Bradford|Matthew Walker & Mohamnmad Hammad|
+|2491|CY P06 24 04 - Sickle Cell Disorder|Adam Glaser & Ivanna Holloway|
+|2490|CY P06 24 03 - SSNAP|Lynn  McVey|
+|2489|CY P06 24 02 - Probabilistic Agent-Based Modelling for Predicting School Attendance (PhD thesis) We will use the linked data for Bradford to explore the intersectionality of factors that influence a person’s risk of becoming NEET, and to expose the compounding vulner|Sam Denny|
+|2488|CY P06 24 01 Inequalities in Overprescribing|Bethan Copsey|
+|2383|CY-P03-24-11 - PReventive Interventions & Strategies for older persons living with Multimorbidity|Maria Cruz-Villa Uriol|
+|2378|CY P03 24 10 - National Child Measurement Programme|Francesca Solmi & Illaria Constantini|
 |2375|CY P03 24 08 - Social care and its association with healthcare use after an intensive care admission|Ana Castro |
 |2364|CY P03-24-09 Birth to 19 Children and Young People's Outcome |Josie Dickerson |
 |2360|CY P03-24-04 Health Outcome Prediction |Mai Elshehaly|
