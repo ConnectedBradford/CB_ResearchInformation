@@ -13,6 +13,41 @@ if you want to know more please email cbradford@bthft.nhs.uk quoting the Project
 
 |Project ID|Subject|Project Lead|
 |---------|-------------------------------------------------------------------------|------------------------------|
+|2882|CY P06 25 10 - Better Start Bradford (BSB) Report to A Better Start (ABS) ||
+|2873|CY P06 25 08 - Federated Analysis of Hospital Admissions across Yorkshire and Humber ? Bradford Spoke.||
+|2870|CY P06 25 06 - Creating AI Functionality to OMOP Medication Data||
+|2868|CY P06 25 04 - Vaccinations Data ||
+|2865|CY P06 25 01 - Clinical Trials Efficiency (Cohort Discovery)||
+|2864|CY P06 25 09 - Are children with neurodevelopmental and mental health conditions getting the support they need in schools?||
+|2864|CY P06 25 11 - Pathway enhancement for the referral of patients with incidental findings encountered by ambulance clinicians (PERIFERAL) ||
+|2823|CY P03 25 12 - Miller DfE Opportunity Mission||
+|2812|CY P03 25 11 - Maternal Patient Safety||
+|2807|CY P03 25 10 - Hospital Readmissions for people with multiple LTC||
+|2805|CY P03 25 09 - Paediatric Diabetes||
+|2804|CY P03 25 01 - ACMI-PM|Matthew Knight|
+|2803|CY P03 25 08 - Dementia||
+|2802|CY P03 25 07 - Overprescribing Care Homes||
+|2801|CY P03 25 06 - DENPRU||
+|2800|CY P03 25 05 - 3i-o||
+|2798|CY P03 25 04 - Understanding Missing From Care episodes||
+|2797|CY P03 25 03 Triangulating Police and Health Data||
+|2795|CY P03 25 02 - MIND-MH|Akshay Kumar|
+|2742|CY P12 24 07 - HUP North (WP2)|Tiffany Yang|
+|2714|CY P12 24 06 - Development Coordination Disorder and Education Outcomes |Matthew Warburton|
+|2713|CY P12 24 05 - age related LTC|Matthew Knight |
+|2707|CY P12 24 04 - HUP North|Rita Santos|
+|2706|CY P12 24 03 - Internalising Neurodivegence |Matthew Warburton|
+|2705|CY P09-23-06 NEET_3 School absences as a risk factor - Dr Megan Wood, Lewis Shaw|Megan Wood|
+|2694|CY P12 24 01 - Storytelling with Data|Sofia Myrvoda |
+|2677|CY P12 24 02 - COPD |Vanessa Atkinson |
+|2651|CY P09 24 10 - Aqua|Marie Lefebvre|
+|2649|CY P09 24 09 - Understanding the wider health determinants associated with Looked After Children.|Dan Birks|
+|2648|CY P09 24 08 - Police and Mental Health |Dan Birks|
+|2634|CY P09 24 07 Electronic Online Abuse Vulnerability Tool: |Samina Karim|
+|2633|CY P09 24 06 The Role of Clinician Involvement in Enhancing the Efficacy of Telephone-Triage Systems for Urgent Care in the NHS|Bilal Gokpinar|
+|2622|CY P09 24 04 - Investigating the association between the early years foundation stage profile and later ADHD diagnosis|Matthew Warburton |
+|2617|CY P09 24 03 - Mapping the healthcare journey for patients who contact NHS 111 with urgent oral health needs.|Richard Pilbery and Peter Day |
+|2592|CY P09 24 02 - Prescription medication practices for the secondary prevention of stroke |Alejandro Gonzalez |
 |2583|CY P09 24 01 - Physical and mental health multimorbidity across the lifespan (LIfespaN multimorbidity research Collaborative: LINC).|Megan Wood|
 |2572|CY P06 24 07 - BCG Vaccinations|Sunil Bhopal|
 |2514|CY P06 24 06 - Spatial Distribution |Tiffany Yang|
