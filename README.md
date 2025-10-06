@@ -4,7 +4,15 @@
 >
   
 
-##  Research Projects as at 12/08/2024
+##  Research Projects as at 17/07/2024
+
+These are headline projects using Connected Bradford Data : 
+
+|PSubject|URL|
+|---------|-------------------------------------------------------------------------|
+|Quality and outcomes framework achievement and unplanned admissions for cardiovascular disease |https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-13227-1#Abs1 ||
+|Clean Air Zone | https://www.bbc.co.uk/news/articles/clyvnq1lnrpo||
+
 
 The following is a list of projects that are either in progress or have been worked on using Connected Bradford data
 if you want to know more please email cbradford@bthft.nhs.uk quoting the Project ID
