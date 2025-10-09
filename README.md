@@ -12,6 +12,7 @@ These are headline projects using Connected Bradford Data :
 |---------|-------------------------------------------------------------------------|
 |Quality and outcomes framework achievement and unplanned admissions for cardiovascular disease |https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-13227-1#Abs1 ||
 |Clean Air Zone | https://www.bbc.co.uk/news/articles/clyvnq1lnrpo||
+|School readiness ....attention-deficit hyperactivity disorder| https://adc.bmj.com/content/early/2025/10/08/archdischild-2025-329285 ||
 
 The following link includes a list of published papers : https://bradfordresearch.nhs.uk/connected-bradford/connected-bradford-papers-reports/
 
