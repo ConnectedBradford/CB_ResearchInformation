@@ -23,6 +23,19 @@ if you want to know more please email cbradford@bthft.nhs.uk quoting the Project
 
 |Project ID|Subject|Project Lead|
 |---------|-------------------------------------------------------------------------|------------------------------|
+|3038|CY P09 25 08 - Educational attainment of children with Primary Ciliary Dyskinesia in the UK.||
+|3036|CY P09 25 07 - The Wellbeing in Later Life in Bradford (WeLLbeing-Bradford) Study||
+|3035|CY P09 25 06 - Quantifying the Health and Social Impacts of Obesity During Childhood||
+|3032|CY P09 25 05 - Healthy Homes ||
+|3026|CY P09 25 04 - Herpes Zoster & Dementia||
+|3021|CY P09 25 03 - PD Housing|Ben Clifford|
+|3001|CY P09 25 02 - Within-Bradford movers and mental health. A Connected Bradford study|Mikel Subiza-Perez|
+|3000|CY P09 25 01 - Investigating inequalities in eating disorder identification, care pathways and treatment|Francesca Solmi|
+|2945|CY P06 25 10 - Bradford Teaching Hospitals Waiting List Priority Work ||
+|2933|CY P06 25 04 - Vaccinations Data |John Birkinshaw|
+|2932|CY P06 25 01 - Clinical Trials Efficiency (Cohort Discovery)|John Birkinshaw|
+|2930|CY P06 25 09 - Using data analytics to support children and families – using the Supporting Families Outcome framework||
+|2899|CY P06 25 06 - Pathway enhancement for the referral of patients with incidental findings encountered by ambulance clinicians (PERIFERAL) |Richard Pilbery|
 |2882|CY P06 25 10 - Better Start Bradford (BSB) Report to A Better Start (ABS) ||
 |2873|CY P06 25 08 - Federated Analysis of Hospital Admissions across Yorkshire and Humber ? Bradford Spoke.||
 |2870|CY P06 25 06 - Creating AI Functionality to OMOP Medication Data||
